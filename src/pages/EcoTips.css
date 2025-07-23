@@ -1,0 +1,47 @@
+.eco-tips-container {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  background: linear-gradient(to right, #e0f7fa, #f1f8e9);
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.eco-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #2e7d32;
+  margin-bottom: 1.5rem;
+}
+
+.eco-section {
+  margin-bottom: 2rem;
+}
+
+.eco-category {
+  font-size: 1.5rem;
+  color: #00796b;
+  border-bottom: 2px solid #a5d6a7;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.eco-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.eco-item {
+  background-color: #ffffffcc;
+  padding: 12px 18px;
+  margin-bottom: 10px;
+  border-left: 6px solid #66bb6a;
+  border-radius: 8px;
+  font-size: 1.05rem;
+  transition: background-color 0.3s;
+}
+
+.eco-item:hover {
+  background-color: #e0f2f1;
+}
